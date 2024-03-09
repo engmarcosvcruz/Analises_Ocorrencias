@@ -1,8 +1,9 @@
 <h1 align="center">Interrupções de Energia Elétrica nas Redes de Distribuição</h1>
-# Remember os processos da Análise de dados
-* Perguntar
-* Preparar
-* Processar
-* Analisar
-* Compartilhar 
-* Agir
+
+## Nessa Etapa inicial vamos relembrar o processo e todas as fases da Análise de Dados
+- Perguntar
+- Preparar
+- Processar
+- Analisar
+- Compartilhar
+- Agir
