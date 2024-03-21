@@ -12,4 +12,5 @@ Nesta etapa serão feita as perguntas para buscarmos entender quais são os garg
 - Achivable
 - Relevant
 - Time-bound
-
+Ao elaborar uma pergunta, certifique que ela atendem os critérios exigidos assim, especifica ao problema que está tentando responder, que possa ser mensurada, e que também sejam voltadas para ações.
+Nesta fase também deve-se evitar realizar perguntas fechadas ou limitadas, que não irão trazer muita informação.
