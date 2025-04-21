@@ -7,6 +7,7 @@ Seguiremos o roteiro, que detalha as etapas do processo de análise de dados: **
 
 ## Base de Dados
 https://dadosabertos.aneel.gov.br/dataset/ocorrencias-emergenciais-nas-redes-de-distribuicao
+![image](https://github.com/user-attachments/assets/f60205e0-02e4-4532-9d7a-dc60d35f805c)
 
 ![image](https://github.com/user-attachments/assets/100c4678-94e2-41c3-963a-964762afa926)
 
