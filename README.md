@@ -5,6 +5,12 @@ Com o surgimento da Agência Nacional de Energia Elétrica (ANEEL) no ano de 199
 
 Seguiremos o roteiro, que detalha as etapas do processo de análise de dados: **perguntar**, **preparar**, **processar**, **analisar**, **compartilhar** e **agir**, seguir o passo a passo das fases da análise e fundamental para um analista de dados, desta forma ajudar a estruturar o pensamento e raciocinio que será desenvolvido durante o projeto e documenta elas por escrito.
 
+## Base de Dados
+https://dadosabertos.aneel.gov.br/dataset/ocorrencias-emergenciais-nas-redes-de-distribuicao
+
+![image](https://github.com/user-attachments/assets/100c4678-94e2-41c3-963a-964762afa926)
+
+
 ## Perguntas:
 Nesta etapa serão feita as perguntas para buscarmos entender quais são os gargalos e os problemas que vem sendo enfrentados por essa empresa, a etapa de perguntas norteará todo o resto do projeto de análise de dados, desta forma que surgiram o metodo SMART: 
 - Specific
